@@ -18,11 +18,11 @@
 
 - 🌱 I'm currently learning **Advanced Database Management, Cloud Computing**
 
-- 👨‍💻 All of my projects are available at my repository
+- 👨‍💻 All of my projects are available in my repository
 
 - 💬 Ask me about **Node.js, Express.js, MongoDB**
 
-- - 📄 Know about my experiences [https://drive.google.com/file/d/1s0TP4YyrH8Bie9wdgR-JJKmFFwMOfbkp/view?usp=drive_link]
+- - 📄 Know about my experiences [https://bit.ly/umar_resume]
 
 - 📫 How to reach me **umaramin78894@gmail.com**
 
