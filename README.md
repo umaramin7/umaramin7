@@ -24,6 +24,8 @@
 
 - 💬 Ask me about **Node.js, Express.js, MongoDB**
 
+- - 📄 Know about my experiences [https://drive.google.com/file/d/1s0TP4YyrH8Bie9wdgR-JJKmFFwMOfbkp/view?usp=drive_link]
+
 - 📫 How to reach me **umaramin78894@gmail.com**
 
 - ⚡ Fun fact **Coffee enthusiast, Gym motivated, Multilingual**
@@ -54,28 +56,29 @@
 - 🎯 Advanced to three rounds in Smart India Hackathon 2024
 - 🥇 College level rank in Hackathon C++ and Problem Solving
 - 📜 Python Certification by Grazitti Interactive
+- 📜 certified by AWS academy
 - 🎓 40-day Python Developer Training Completion
 </details>
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umaramin7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <!-- Languages Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaramin7&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umaramin7&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOURUSERNAME&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=UMAR&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
@@ -85,5 +88,5 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOURUSERNAME/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/UMAR/count.svg" alt="Visitor Count" />
 </p>
