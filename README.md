@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umar Amin</h1>
 <h3 align="center">A passionate Computer Science Engineering student from India 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOURUSERNAME" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umaramin7&label=Profile%20views&color=0e75b6&style=flat" alt="umaramin7" /> </p>
 
 <!-- Add a cool banner or typing effect -->
 <p align="center">
@@ -71,15 +71,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaramin7&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umaramin7&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=umaramin7&theme=react-dark" alt="Contribution Graph" />
-</p>
+
 
 ---
 <p align="center">
