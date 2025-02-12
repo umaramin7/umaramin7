@@ -20,7 +20,7 @@
 
 - 🌱 I'm currently learning **Advanced Database Management, Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [Your Portfolio URL]
+- 👨‍💻 All of my projects are available at my repository
 
 - 💬 Ask me about **Node.js, Express.js, MongoDB**
 
@@ -78,7 +78,7 @@
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=UMAR&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=umaramin7&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
@@ -88,5 +88,5 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/UMAR/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/umaramin7/count.svg" alt="Visitor Count" />
 </p>
