@@ -16,8 +16,6 @@
 <img src="https://img.shields.io/badge/College-CGC-red" />
 </p>
 
-- 🔭 I'm currently working on **QuickShare - File Sharing Platform**
-
 - 🌱 I'm currently learning **Advanced Database Management, Cloud Computing**
 
 - 👨‍💻 All of my projects are available at my repository
